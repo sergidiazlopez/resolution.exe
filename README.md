@@ -10,7 +10,7 @@ Useful for:
 + Games that dont work with Nvidia DSR/DLDSR
 
 ## How to use
-Download the release and extract resolution.exe to any folder.
+[Download the release](https://github.com/sergidiazlopez/resolution.exe/releases/latest) and extract resolution.exe to any folder.
 
 `C:\resolution.exe <width> <heigth> <frequency> <game.exe>`
 
